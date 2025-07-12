@@ -16,6 +16,9 @@ body, html {
   z-index: 0;
 }
 
+* {
+    -webkit-tap-highlight-color: transparent;
+}
 #welcome {
   position: absolute;
   top: 20%;
